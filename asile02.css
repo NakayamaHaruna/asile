@@ -58,7 +58,6 @@ body {
 
 .main{
   background-color: #656565;
-  width: 70%
   height: auto;
   font-family: serif;
   text-align:left;
@@ -67,15 +66,10 @@ body {
 
 .side {
   background-color:#656565;
-  width: 25%;
   height: auto;
   text-align: left;
   margin-left: 10px;
   margin-right: 10px;
-}
-
-article {
- display: flex;
 }
 
 h1{

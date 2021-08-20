@@ -24,7 +24,28 @@ padding:0;
   font-family: serif;
 }
 
-.link a {
+.header a{
+
+color:#fff;
+text-decoration:underline;
+
+}
+
+.writer a{
+
+color:#fff;
+text-decoration:underline;
+
+}
+
+.sale a{
+
+color:#fff;
+text-decoration:underline;
+
+}
+
+.introduction a{
 
 color:#fff;
 text-decoration:underline;

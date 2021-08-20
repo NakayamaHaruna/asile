@@ -11,7 +11,7 @@ padding:0;
 }
 
 .header{
-  background: linear-gradient(to bottom right, #333366, #F8F8FF);
+  background: linear-gradient(#333366, #656565);
   height: 80px;
   color: #fff;
 }
@@ -31,21 +31,21 @@ text-decoration:underline;
 }
 
 .main{
-  background-color: #F8F8FF;
+  background-color: #656565;
   height: auto;
   font-family: serif;
   text-align:center;
 }
 
 .writer{
-  background-color: #F8F8FF;
+  background-color: #656565;
   height: auto;
   font-family: serif;
   text-align:center;
 }
 
 .sale{
-  background-color: #F8F8FF;
+  background-color: #656565;
   height: auto;
   font-family: serif;
   text-align:center;
@@ -88,7 +88,7 @@ text-decoration:underline;
 }
 
 .footer{
-  background: linear-gradient(to top left,#F8F8FF, #333366);
+  background: linear-gradient(#656565, #333366);
   height: 100px;
 }
 

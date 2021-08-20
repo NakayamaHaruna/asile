@@ -4,11 +4,7 @@ padding:0;
 }
 
 .header-list li{
-  list-style: none;
-  float: left;
-  padding: 33px 20px;
-  font-family: serif;
-  background-color: transparent;
+  display: none;
 }
 
 .header{

@@ -35,21 +35,21 @@ text-decoration:underline;
   background-color: #656565;
   height: auto;
   font-family: serif;
-  text-align:center;
+  text-align:left;
 }
 
 .writer{
   background-color: #656565;
   height: auto;
   font-family: serif;
-  text-align:center;
+  text-align:left;
 }
 
 .sale{
   background-color: #656565;
   height: auto;
   font-family: serif;
-  text-align:center;
+  text-align:left;
 }
 
 h1{
@@ -77,14 +77,14 @@ img{
 
 .writer a {
 
-color:#336666;
+color:#fff;
 text-decoration:underline;
 
 }
 
 .sale a {
 
-color:#336666;
+color:#fff;
 text-decoration:underline;
 
 }

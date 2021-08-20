@@ -11,7 +11,7 @@ padding:0;
 }
 
 .header{
-  background-color: #333366;
+  background-color: linear-gradient(#333366, #F8F8FF);
   height: 80px;
   color: #fff;
 }
@@ -88,7 +88,7 @@ text-decoration:underline;
 }
 
 .footer{
-  background-color: #333366;
+  background-color: linear-gradient(#F8F8FF, #333366);
   height: 100px;
 }
 

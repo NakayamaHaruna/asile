@@ -70,6 +70,31 @@ h2{
   font-size: 20px;
 }
 
+.head-border {
+    position: relative;
+    display: inline-block;
+    padding: 0 55px;
+}
+
+.head-border:before,
+.head-border:after {
+    content: '';
+    position: absolute;
+    top: 50%;
+    display: inline-block;
+    width: 50px;
+    height: 5px;
+    background-color: #BCDEE5;
+}
+
+.head-border:before {
+    left: 0;
+}
+
+.head-border:after {
+    right: 0;
+}
+
 h4{
   color: #fff;
   font-weight: normal;

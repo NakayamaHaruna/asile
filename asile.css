@@ -8,10 +8,11 @@ padding:0;
   float: left;
   padding: 33px 20px;
   font-family: serif;
+  background-color: transparent;
 }
 
 .header{
-  background: linear-gradient(#333366, #656565);
+  background: linear-gradient(#336666, #656565);
   height: 80px;
   color: #fff;
 }
@@ -52,17 +53,18 @@ text-decoration:underline;
 }
 
 h1{
-  padding:20px;
-  color: #333366;
+  padding:20px#fff;
+  color: #fff;
   position: relative;
 }
 
 h2{
-  color: #336666;
+  color: #fff;
   font-size: 20px;
 }
 
 h4{
+  color: #fff;
   font-weight: normal;
 }
 
@@ -88,7 +90,7 @@ text-decoration:underline;
 }
 
 .footer{
-  background: linear-gradient(#656565, #333366);
+  background: linear-gradient(#656565, #336666);
   height: 100px;
 }
 

@@ -3,11 +3,14 @@ margin:0;
 padding:0;
 }
 
+.body{
+  font-family: 'Kaisei HarunoUmi', serif;
+}
+  
 .header-list li{
   list-style: none;
   float: left;
   padding: 33px 20px;
-  font-family: serif;
   background-color: transparent;
 }
 
@@ -21,35 +24,26 @@ padding:0;
   font-size: 36px;
   float: left;
   padding:20px 40px;
-  font-family: serif;
 }
 
 .header a{
-
 color:#fff;
 text-decoration:underline;
-
 }
 
 .writer a{
-
 color:#fff;
 text-decoration:underline;
-
 }
 
 .sale a{
-
 color:#fff;
 text-decoration:underline;
-
 }
 
 .introduction a{
-
 color:#fff;
 text-decoration:underline;
-
 }
 
 .main{

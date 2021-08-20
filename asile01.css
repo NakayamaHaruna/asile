@@ -52,7 +52,7 @@ text-decoration:underline;
 }
 
 body {
-   font-family:'Noto Sans JP',sans-serif;
+   font-family: 'Kaisei HarunoUmi', serif;
    background-color:#656565;
 }
 
@@ -84,11 +84,13 @@ h1{
   color: #BCDEE5;
   position: relative;
   font-size: 30px;
+  font-family: 'Kaisei HarunoUmi', serif;
 }
 
 h2{
   color: #fff;
   font-size: 20px;
+  font-family: 'Kaisei HarunoUmi', serif;
 }
 
 .head-border {
@@ -119,6 +121,7 @@ h2{
 h4{
   color: #fff;
   font-weight: normal;
+  font-family: 'Kaisei HarunoUmi', serif;
 }
 
 img{

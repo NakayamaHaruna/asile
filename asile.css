@@ -38,6 +38,13 @@ text-decoration:underline;
   text-align:left;
 }
 
+.introduction{
+  background-color: #656565;
+  height: auto;
+  font-family: serif;
+  text-align:left;
+}
+
 .writer{
   background-color: #656565;
   height: auto;
